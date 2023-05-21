@@ -1,12 +1,4 @@
 # traefik-controller-setup
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/traefik.logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="docs/traefik.logo.png">
-      <img alt="Traefik" title="Traefik" src="docs/content/assets/img/traefik.logo.png">
-    </picture>
-</p>
-
 Traefik (pronounced _traffic_) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
 
 **How can Traefik can help you!**
@@ -22,3 +14,5 @@ A collection of contributions around Traefik can be found at [https://awesome.tr
 _(But if you'd rather configure some of your routes manually, Traefik supports that too!)_
 
 ![Architecture](docs/traefik-architecture.png)
+
+# Installation using helm
