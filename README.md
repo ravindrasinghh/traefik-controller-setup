@@ -16,3 +16,5 @@ _(But if you'd rather configure some of your routes manually, Traefik supports t
 ![Architecture](docs/traefik-architecture.png)
 
 # Installation using helm
+
+You can find the Installation documentation at [https://medium.com/@rvisingh1221/install-traefik-ingress-controller-in-aws-eks-kubernetes-3988b4875b5c](https://medium.com/@rvisingh1221/install-traefik-ingress-controller-in-aws-eks-kubernetes-3988b4875b5c).
