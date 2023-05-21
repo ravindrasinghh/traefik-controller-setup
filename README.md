@@ -1,8 +1,8 @@
 # traefik-controller-setup
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="docs/content/assets/img/traefik.logo-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="docs/content/assets/img/traefik.logo.png">
+      <source media="(prefers-color-scheme: dark)" srcset="docs/traefik.logo-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="docs/traefik.logo.png">
       <img alt="Traefik" title="Traefik" src="docs/content/assets/img/traefik.logo.png">
     </picture>
 </p>
